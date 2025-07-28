@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Notebooks
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+env/
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Output data
+*.csv
+*.xlsx
+*.tsv
+*.json
+*.db
+*.log
+*.pkl
+*.h5
+
+# Ignore model files
+*.pt
+*.pth
+*.ckpt
+*.joblib
+
+# Checkpoints or cached outputs
+*.cache/
+checkpoints/
+__pycache__/
+*.bak
+*.tmp
+
+# Ignore Google Colab files
+*.ipynb_checkpoints/
+.config/
+sample_data/
+
+# Exceptions (allow specific file inside a tracked folder)
+!sample_output/sample_results.csv
+
+# System files
+.DS_Store
+Thumbs.db
