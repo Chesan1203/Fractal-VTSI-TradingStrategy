@@ -99,7 +99,7 @@ The computed metrics for all stocks are programmatically uploaded to a [Google S
 - `summary_metrics.csv` — Overall performance metrics  
 
 > Full CSVs are excluded from GitHub to avoid clutter.  
-📁 A **sanitized sample** of the daily results is available here: [`/sample_output/`](./sample_output/)  
+📁 A **sanitized sample** of the daily results is available here: [`/Results/`](./Results/)  
 📦 Download all 7 CSVs in one archive: [`Fractal-VTSI-CSVs.zip`](./sample_output/Fractal-VTSI-CSVs.zip)
 
 ---
