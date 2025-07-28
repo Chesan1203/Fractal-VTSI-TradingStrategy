@@ -100,7 +100,7 @@ The computed metrics for all stocks are programmatically uploaded to a [Google S
 
 > Full CSVs are excluded from GitHub to avoid clutter.  
 📁 A **sanitized sample** of the daily results is available here: [`/Results/`](./Results/)  
-📦 Download all 7 CSVs in one archive: [`Fractal-VTSI-CSVs.zip`](.Results/Trade_log_daily_data.zip)
+📦 Download all 7 CSVs in one archive: [`Fractal-VTSI-CSVs.zip`](./Results/Trade_log_daily_data.zip)
 
 ---
 
