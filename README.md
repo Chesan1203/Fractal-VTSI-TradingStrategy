@@ -123,6 +123,11 @@ This interactive Power BI report provides a complete visual summary of the **Fra
 [🔗 Fractal_VTSI Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmM4YjM4YWQtMzk4My00MWNmLTkwNTMtYmFjZTlmYjJmOWMzIiwidCI6IjkyYzI0YjQ4LTEzMDQtNGMyZi1iMTZjLWQ5MWRhNjY3MTVkOSIsImMiOjl9)
 > 💡 **Tip**: For the best viewing experience, try selecting **one stock at a time** using the left-hand filter. This helps you clearly see how each stock performed across all charts without clutter.
 
+---
+
+## 📊 Strategy Insights
+
+For a detailed breakdown of the strategy's performance, including key takeaways, top-performing stocks, and trade behavior analysis, check out the [📈 Analysis Report](./Analysis.md).
 
 ---
 
