@@ -32,11 +32,13 @@ To analyze how well the strategy performs across different market conditions usi
 
 ## 📌 Key Takeaways
 
+- **Fractals** helped in detecting trend reversals and gave trade oppurtunities
 - **Volatility Filter Boosts Precision**: The VTSI filter significantly reduces false positives compared to using fractals alone, leading to better entry timing.
 - **Top Performer**: `M&M.NS` delivered the **highest final portfolio return**, showcasing its trend-capturing potential.
 - **Safest Bet**: `JSWSTEEL.NS` recorded the **highest Sharpe Ratio**, indicating strong returns with comparatively lower risk.
 - **Most Stable**: `ADANIPOWER` exhibited the **lowest volatility**, making it suitable for risk-averse traders.
 - **Most Active**: `TATAMOTORS.NS` generated the **highest number of trade signals**, ideal for active and short-term strategies.
+- **Average Return** : 154.56% with an Annualised Return rate of 26%
 
 
 ---
@@ -44,7 +46,7 @@ To analyze how well the strategy performs across different market conditions usi
 ## 🧠 Strategy Insights
 
 - Combining **volatility and reversal patterns** helps filter out noisy entries.
-- Works best on **trending, high-volume stocks**.
+- Works best on **trending, high-volume, highly volatile stocks**.
 - Could be enhanced further with **position sizing, stoploss**, or **multi-timeframe confirmation**.
 
 ---
