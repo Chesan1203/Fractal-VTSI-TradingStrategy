@@ -55,6 +55,7 @@ To analyze how well the strategy performs across different market conditions usi
 
 - See [`/Results`](./Results) for raw performance data.
 - Interactive charts in the [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmM4YjM4YWQtMzk4My00MWNmLTkwNTMtYmFjZTlmYjJmOWMzIiwidCI6IjkyYzI0YjQ4LTEzMDQtNGMyZi1iMTZjLWQ5MWRhNjY3MTVkOSIsImMiOjl9) provide visual analysis.
+- Check out [Powerpoint Presentation](https://github.com/Chesan1203/Fractal-VTSI-TradingStrategy/blob/main/Results/Fracta-VTSI%20Analysis%20Report.pdf) for clear insights
 
 ---
 
