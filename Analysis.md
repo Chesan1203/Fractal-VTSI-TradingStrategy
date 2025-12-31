@@ -1,10 +1,10 @@
-# 📊 Strategy Analysis: Fractal + VTSI
+# Strategy Analysis: Fractal + VTSI
 
 This file provides a deeper dive into the **performance evaluation and interpretation** of the Fractal-VTSI strategy across selected Indian equities.
 
 ---
 
-## 🔍 Objective
+## Objective
 
 To analyze how well the strategy performs across different market conditions using key metrics such as:
 - **Annualized Return**
@@ -15,7 +15,7 @@ To analyze how well the strategy performs across different market conditions usi
 
 ---
 
-## 📈 Overall Observations
+## Overall Observations
 
 - The strategy shows **strong risk-adjusted returns** on high-momentum stocks.
 - Most profits come from **trend continuation phases**, where both fractal and volatility triggers align.
@@ -23,14 +23,14 @@ To analyze how well the strategy performs across different market conditions usi
 
 ---
 
-## 📊 Stock-wise Summary
+## Stock-wise Summary
 
 ![Strategy Logic Flowchart](./Results/Performance_Metrics.png)
 
 
 ---
 
-## 📌 Key Takeaways
+## Key Takeaways
 
 - **Fractals** helped in detecting trend reversals and gave trade oppurtunities
 - **Volatility Filter Boosts Precision**: The VTSI filter significantly reduces false positives compared to using fractals alone, leading to better entry timing.
@@ -43,7 +43,7 @@ To analyze how well the strategy performs across different market conditions usi
 
 ---
 
-## 🧠 Strategy Insights
+## Strategy Insights
 
 - Combining **volatility and reversal patterns** helps filter out noisy entries.
 - Works best on **trending, high-volume, highly volatile stocks**.
@@ -51,7 +51,7 @@ To analyze how well the strategy performs across different market conditions usi
 
 ---
 
-## 📎 Supporting Files
+## Supporting Files
 
 - See [`/Results`](./Results) for raw performance data.
 - Interactive charts in the [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmM4YjM4YWQtMzk4My00MWNmLTkwNTMtYmFjZTlmYjJmOWMzIiwidCI6IjkyYzI0YjQ4LTEzMDQtNGMyZi1iMTZjLWQ5MWRhNjY3MTVkOSIsImMiOjl9) provide visual analysis.
